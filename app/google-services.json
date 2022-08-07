@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259179381220",
+    "project_id": "barodegeneratorscanner",
+    "storage_bucket": "barodegeneratorscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259179381220:android:33a86fd12a63d92545c7f1",
+        "android_client_info": {
+          "package_name": "com.example.barodegeneratorscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259179381220-5di9aefk9mmjub1vtsra8gbcc06mff91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1B1UXrecBee4pq-VjtVkycGFd0StRxWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259179381220-5di9aefk9mmjub1vtsra8gbcc06mff91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
